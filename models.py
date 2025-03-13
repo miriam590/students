@@ -54,7 +54,7 @@ class Enrollment(Base):
     def __repr__(self):
         return f"✅ Enrollment(Student_ID={self.student_id}, Course_ID={self.course_id}, Status={self.status})"
 
-# 🚀 Initialize Database
+# Initialize Database
 if __name__ == "__main__":
     Base.metadata.create_all(engine)
     print("✅ Database tables created successfully!")
