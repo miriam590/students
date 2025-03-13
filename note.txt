@@ -1,0 +1,27 @@
+# Welcome to the Student-Course Enrollment System!
+
+## Installation
+To get started with the system, simply clone the repository and install the required dependencies
+
+## Overview
+Welcome to the Student-Course Enrollment System! This application is designed to make managing students and courses a breeze. Whether you're adding new students, enrolling them in courses, or simply keeping track of everything, this system has got you covered!
+
+## Features
+- Add Student: Easily add new students by providing their name, email, and phone number.
+- Remove Student: Need to remove a student? No problem! Just a few clicks and they're out of the system.
+- View Students: Want to see who's enrolled? You can view a list of all registered students at any time.
+- Find Student: Searching for a specific student? Use their name or email to quickly find them.
+- Add Course: Create new courses with unique codes to keep everything organized.
+- **Remove Course**: If a course is no longer needed, you can easily remove it from the system.
+- **View Courses**: Check out all available courses whenever you need to.
+- **Find Course**: Looking for a specific course? Search by name or code to find it in seconds.
+- **Enroll Student**: Enroll students in courses and watch them thrive in their studies!
+- **Drop Course**: If a student needs to drop a course, it's just a few clicks away.
+- **View Enrollments**: Keep track of all student enrollments and see who is taking what.
+
+## Usage
+Run the application using the command line interface to access the main menu. From there, you can manage students and courses with just a few keystrokes.
+
+## Contribution
+I love contributions! If you have ideas or improvements, feel free to jump in and help out. Just follow the guidelines for contributing to the project.
+
